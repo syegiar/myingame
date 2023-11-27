@@ -8,3 +8,5 @@
   import the database into phpmyadmin with the database name forum_db
 - 
   run the website via the localhost URL
+
+FRAMEWORK by: SEME FRAMEWORK
